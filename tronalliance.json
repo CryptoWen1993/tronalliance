@@ -230,6 +230,14 @@
 			"chainId": 1,
 			"decimals": 18,
 			"logoURI": "https://static.tronscan.org/production/upload/logo/new/sun/TXL6rJbvmjD46zeN1JssfgxvSo99qC8MRT.png"
-		}
+		},
+				{
+			"symbol": "NH",
+			"name": "Neiros Hat",
+			"address": "TLp26c6hyHWaCsBEn3Bs3WA1Gam34VXoFm",
+			"chainId": 1,
+			"decimals": 18,
+			"logoURI": "https://photos.pinksale.finance/file/pinksale-logo-upload/1724511754400-def09294f9dce2a4313e7b90a7078c56.jpg"
+		},
 	]
 }
